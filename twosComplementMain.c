@@ -3,7 +3,6 @@
 *and prints the twos compliment
 *
 * @author		Carlos Hernandez
-* Course:		COMP B13
 * Created on:	Feb 19,2020
 * Source File: 	twosComplement.c
 *

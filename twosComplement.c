@@ -5,7 +5,6 @@
 *To compile: gcc -g -Wall twosComplement.c twosComplementMain.c -o twosComplementMain
 *
 * @author		Carlos Hernandez
-* Course:		COMP B13
 * Created on:	Feb 19,2020
 * Source File: 	twosComplement.c
 */
